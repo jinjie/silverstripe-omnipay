@@ -7,7 +7,7 @@
     "require": {
         "silverstripe/framework": "^4",
         "silverstripe/config": "^1",
-        "omnipay/common": "^3"
+        "omnipay/common": "^3.2"
     },
     "require-dev": {
         "silverstripe/versioned" : "^1.0",
